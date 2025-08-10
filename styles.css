@@ -14,8 +14,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 28px;
-    height: 28px;
+    width: 26px;
+    height: 26px;
     backdrop-filter: blur(10px);
     animation: fadeIn 0.2s ease-out;
 }
